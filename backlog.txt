@@ -1,0 +1,10 @@
+Task 1: Add a subtract(a, b) function
+Task 2: Add a multiply(a, b) function
+Task 3: Add a divide(a, b) function with ZeroDivisionError handling
+Task 4: Implement a factorial(n) function
+Task 5: Add a power(base, exp) function
+Task 6: Add a is_prime(n) helper
+Task 7: Add type hints to all functions
+Task 8: Write unit tests in tests/test_app.py
+Task 9: Add a CLI interface using argparse
+Task 10: Package the project with a pyproject.toml
